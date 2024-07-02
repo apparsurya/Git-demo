@@ -1,0 +1,6 @@
+this is my first git.
+I have created the first git on tuesday.
+
+
+
+....
