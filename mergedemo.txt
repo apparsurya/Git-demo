@@ -1,5 +1,1 @@
-created a txt file to check..
-
-
-
-// how merge is workin
+i have updated the file for merge
